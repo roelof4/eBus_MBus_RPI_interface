@@ -11,7 +11,7 @@ For safety purposes the eBus interface is fully galvanically shielded using opto
 Both interfaces can be linked to serial (UART) ports on the Raspberry Pi. Version 4 and beyond
 provide more than two UARTS and the user can select which one is used for either interface.
 Older Raspberries can typically only use one UART. For these case the user can use serial to usb
-cables using a separate 4-pin connector. Two are provided such that in princeple the board
+cables using a separate 4-pin connector. Two are provided such that in principle the board
 can be used standalone provided a 5V powersupply is present. When mounted as a HAT on the
 Raspberry the 5V supply provided through the GPIO connector is used.
 
