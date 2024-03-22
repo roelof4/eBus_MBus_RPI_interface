@@ -15,4 +15,7 @@ cables using a separate 4-pin connector. Two are provided such that in principle
 can be used standalone provided a 5V powersupply is present. When mounted as a HAT on the
 Raspberry the 5V supply provided through the GPIO connector is used.
 
+The interface also features a ONE WIRE sensor screw terminal which can act as a multiple temperature
+sensor input (or whatever other ONE WIRE device available).
+
 Note: the I2C EEPROM is optional and used for a system with automatic recognition.
